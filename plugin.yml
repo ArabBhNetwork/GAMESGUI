@@ -1,1 +1,10 @@
-
+---------
+name: GAMESGUI
+author: The Pluginer
+mine: ArabBh\GAMESGUI
+version: ArabBh
+api: 3.9.0
+description: a gui open for mini games!!!!
+permission:
+games.gui:
+---------
